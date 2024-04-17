@@ -1,5 +1,7 @@
 # tallerVideojuegos
 
+Se ocupa como lenguaje LUA con el motor de PICO-8
+
 ## Comandos
 - install_games -> crea la carpeta games que incluyen games
   - cd games -> load jelpi -> run #esto ejecutara la demo y con esc podemos salir de la ejecucion
